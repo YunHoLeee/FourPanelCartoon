@@ -7,3 +7,5 @@
 * 사실은 둘다 못생겼다.
 
 1. 연구의 목적
+
+[논문 제목](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002949387)
